@@ -1,0 +1,20 @@
+{
+//我不是原作者，只是改了改文件
+//这是vscode c/c++环境的配置文件，路径自行更改，默认是c++用c的看注释改改就行
+  "configurations": [
+    {
+      "name": "windows-gcc-x64",
+      "includePath": [
+        "${workspaceFolder}/**"
+      ],
+      "compilerPath": "C:/MinGW/mingw64/bin/gcc.exe",//记得改这个路径
+      "cStandard": "${default}",
+      "cppStandard": "${default}",
+      "intelliSenseMode": "windows-gcc-x64",
+      "compilerArgs": [
+        ""
+      ]
+    }
+  ],
+  "version": 4
+}
